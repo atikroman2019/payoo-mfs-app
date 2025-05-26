@@ -6,6 +6,6 @@ document.getElementById('transaction').addEventListener('click', function (event
     const withdrawForm = document.getElementById('cash-out-form')
     withdrawForm.classList.add('hidden')
     const addFundsForm = document.getElementById('add-money-form')
-    addFundsForm.classList.add('hidden')
+    addFundsForm.classList.add('hidden');
 
 })
